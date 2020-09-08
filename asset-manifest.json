@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/React-UsersTasksAndPostsRepo/static/css/main.29787244.chunk.css",
+    "main.js": "/React-UsersTasksAndPostsRepo/static/js/main.da3bafc3.chunk.js",
+    "main.js.map": "/React-UsersTasksAndPostsRepo/static/js/main.da3bafc3.chunk.js.map",
+    "runtime-main.js": "/React-UsersTasksAndPostsRepo/static/js/runtime-main.c33807bd.js",
+    "runtime-main.js.map": "/React-UsersTasksAndPostsRepo/static/js/runtime-main.c33807bd.js.map",
+    "static/js/2.644ac4c8.chunk.js": "/React-UsersTasksAndPostsRepo/static/js/2.644ac4c8.chunk.js",
+    "static/js/2.644ac4c8.chunk.js.map": "/React-UsersTasksAndPostsRepo/static/js/2.644ac4c8.chunk.js.map",
+    "index.html": "/React-UsersTasksAndPostsRepo/index.html",
+    "precache-manifest.06562646111be0145fbd29ccb5367bbc.js": "/React-UsersTasksAndPostsRepo/precache-manifest.06562646111be0145fbd29ccb5367bbc.js",
+    "service-worker.js": "/React-UsersTasksAndPostsRepo/service-worker.js",
+    "static/css/main.29787244.chunk.css.map": "/React-UsersTasksAndPostsRepo/static/css/main.29787244.chunk.css.map",
+    "static/js/2.644ac4c8.chunk.js.LICENSE.txt": "/React-UsersTasksAndPostsRepo/static/js/2.644ac4c8.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c33807bd.js",
+    "static/js/2.644ac4c8.chunk.js",
+    "static/css/main.29787244.chunk.css",
+    "static/js/main.da3bafc3.chunk.js"
+  ]
+}
